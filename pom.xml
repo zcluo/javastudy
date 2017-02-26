@@ -37,10 +37,10 @@
                             <goal>java</goal>
                         </goals>
                         <configuration>
-                            <mainClass>com.vineetmanohar.module.CodeGenerator</mainClass>
+                            <mainClass>com.emmaluo.javastudy.ReflectionTest</mainClass>
                             <arguments>
-                                <argument>arg0</argument>
-                                <argument>arg1</argument>
+                                <argument>java.lang.reflect.InvocationHandler</argument>
+
                             </arguments>
                         </configuration>
                     </execution>
