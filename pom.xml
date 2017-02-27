@@ -37,13 +37,21 @@
                             <goal>java</goal>
                         </goals>
                         <configuration>
+
                             <mainClass>com.emmaluo.javastudy.ReflectionTest</mainClass>
                             <arguments>
-                                <argument>java.lang.reflect.InvocationHandler</argument>
+                                <argument>java.lang.Number</argument>
 
                             </arguments>
+
+                            <mainClass>com.emmaluo.javastudy.ObjectAnalyzerTest</mainClass>
+
                         </configuration>
+
+
                     </execution>
+
+
                 </executions>
             </plugin>
         </plugins>
